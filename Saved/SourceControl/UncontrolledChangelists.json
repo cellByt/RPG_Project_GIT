@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/RPG_Character/Animations/Crouch/Crouh_Walk.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/RPG_Character/Animations/Crouch/Crouch_Idle.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/RPG_Character/Animations/Locomotion/Locomotion_BS1D.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/RPG_Character/Animations/ABP_RPG_Character.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/RPG_Character/Animations/Crouch/Crouch_BS1D.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/RPG_Character/Animations/Lean/Lean_BS1D.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue2.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue1.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_1.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_2.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/RPG_Character/Animations/Assasination/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/RPG_Character/Animations/Assasination/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/RPG_Character/Animations/Assasination/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/RPG_Character/Animations/Assasination/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/RPG_Character/Animations/Assasination/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Blueprints/BP_Dummy.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Blueprints/BPI_Assasination.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/UI/WB_AssasinatePromp.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/RPG_Character/Animations/Crouch_Idle.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/RPG_Character/Animations/Crouh_Walk.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/RPG_Character/Animations/Idle_Break.uasset",
+				"C:/Users/epicz/Documents/Unreal Projects/RPG_Project/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset"
+			]
+		}
+	]
+}
